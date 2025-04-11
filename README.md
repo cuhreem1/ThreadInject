@@ -1,4 +1,4 @@
-# threadinject
+# ThreadInject
 Remote Thread Injection Tool : Creates threads in remote processes to run payloads.
 -----------------------------------------------------------------------------------
 This is a C++ tool that demonstrates remote thread injection, 
